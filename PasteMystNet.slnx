@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/PasteMystNet/PasteMystNet.csproj" />
+  <Project Path="src/PasteMystNet.Tests/PasteMystNet.Tests.csproj" />
+</Solution>
