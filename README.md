@@ -1,10 +1,13 @@
 <h1>
-    <img src="docs/icon.png" alt="Icon" height="30">
-    <span>PasteMyst.NET</span>
+  <img src="docs/icon.png" alt="Icon" height="30">
+  <span>PasteMyst.NET</span>
 </h1>
 
 [![NuGet Version](https://img.shields.io/nuget/v/PasteMystNet?logo=nuget)](https://nuget.org/packages/PasteMystNet)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/PasteMystNet)](https://nuget.org/packages/PasteMystNet)
+
+> [!warning]
+> This project is no longer actively maintained, occasional commits may only introduce repository structural changes. Use this library at your own risk.
 
 A simple .NET API wrapper for [pastemyst](https://paste.myst.rs)!
 
@@ -22,7 +25,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ### Installation
 
-1. Clone the repo: `git clone https://github.com/dentolos19/PasteMystNet.git`
+1. Clone the repo: `git clone https://github.com/dentolos19/pastemystnet.git`
 2. Get your API key from [pastemyst](https://paste.myst.rs/user/settings).
 3. Use the template `.env.template` and create a file named `.env` inside the project `PasteMystNet.Tests` and enter your key.
 4. Restore dependencies: `dotnet restore` (optional)
